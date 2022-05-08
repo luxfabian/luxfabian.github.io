@@ -7,8 +7,10 @@ usemathjax: true
 
 {% include math.html %}
 
-# Hello
+# Noncommutative geometry and noncollinear magnetism
+
+<!-- # Hello
 
 ## Test
 $x^2$
-\[x^2\]
+\[x^2\] -->
