@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-subtitle: "Test"
 ---
 
-Hello
+
+<img src="./docs/assets/images/profile_picture.jpeg" alt="Fabian R. Lux" width="150"/>
+
