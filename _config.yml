@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fabian R. Lux 
+title: Dr. rer. nat. Fabian R. Lux 
 email: fabian.lux@yu.edu
 description: Noncommutative geometry and noncollinear magnets.
 baseurl: "" # the subpath of your site, e.g. /blog
