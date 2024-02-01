@@ -23,7 +23,6 @@ email: fabian.lux@yu.edu
 description: Noncommutative geometry and noncollinear magnets.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lux_fabian
 github_username:  luxfabian
 
 # Build settings
